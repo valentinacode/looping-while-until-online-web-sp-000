@@ -1,6 +1,6 @@
 require_relative "spec_helper"
 require_relative "../lib/while.rb"
-require relative 'using_while'
+require_relative 'using_while'
 
 describe "#using_while" do 
 	it "puts out the phrase 'Wingardium Leviosa' while the levitation force is incremented to 10" do 
