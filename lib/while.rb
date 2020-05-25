@@ -1,3 +1,5 @@
+require_relative 'using_while'
+
 def using_while
   using_while = 0
   while using_while < 10
